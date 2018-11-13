@@ -1,0 +1,60 @@
+
+
+
+----- SHMUP TUTORIALS -----
+
+Unity Tutorial: Creating a Classic 2D Shoot 'Em Up
+ttps://www.youtube.com/watch?v=lwXwtvDBqbo&list=PLsgaKssSvST5hgN_71aQnyDxMY3wAlPLz
+
+
+Unity - Shmup Baby Tutorial
+https://www.youtube.com/watch?v=nxJNyZdKIaI&list=PLh5hgaVhes-glcYndel1T3DP40AjtO5Fn
+
+Unity Tutorial: 2D Space Shooter
+https://www.youtube.com/watch?v=y1FSZHPBHT8&list=PLbghT7MmckI4IeNHkPm5bFJhY9GQ0anKN
+
+--
+3D SHMUP Unity & Playmaker Tutorial
+https://www.youtube.com/watch?v=t-kfkqo8hvA&list=PLYYCDVRRWC7c3KawqPYeOMUDHm6soOcNo
+--
+
+
+
+----- RELATED RESOURCES -----
+
+
+START MENU in Unity
+https://www.youtube.com/watch?v=zc8ac_qUXQY&list=PLPV2KyIb3jR4JsOygkHOd2q0CFoslwZOZ
+
+How to make a LOADING BAR in Unity
+https://www.youtube.com/watch?v=YMj2qPq9CP8
+
+...
+
+2D Movement in Unity (Tutorial)
+https://www.youtube.com/watch?v=dwcT-Dch0bA&t=0s&index=3&list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ
+
+Scrolling & Parallax ( Unity 2D ) - Game Mechanics - Unity 3D
+https://www.youtube.com/watch?v=QkisHNmcK7Y
+
+Unity Bullet Patterns Tutorial
+https://www.youtube.com/watch?v=P20DQj1l4jw
+
+Smooth Camera Follow in Unity - Tutorial
+https://www.youtube.com/watch?v=MFQhpwc6cKE
+
+How to make CRISP TEXT in Unity
+https://www.youtube.com/watch?v=D33d4w89vTs
+
+How to make a Homing Missile in Unity
+https://www.youtube.com/watch?v=0v_H3oOR0aU
+
+2D Animation in Unity (Tutorial)
+https://www.youtube.com/watch?v=hkaysu1Z-N8
+
+HOW TO MAKE A DASH MOVE IN UNITY - EASY TUTORIAL
+https://www.youtube.com/watch?v=w4YV8s9Wi3w
+
+
+GITHUB
+https://www.youtube.com/watch?v=0fKg7e37bQE
