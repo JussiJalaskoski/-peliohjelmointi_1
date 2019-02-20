@@ -12,6 +12,7 @@ public class PlayerInput : MonoBehaviour {
         player = GetComponent<Player>();
 	}
 
+
 	void Update ()
     {
         Vector2 directionalInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
@@ -27,4 +28,5 @@ public class PlayerInput : MonoBehaviour {
             player.OnJumpInputUp();
         }
     }
+
 }
